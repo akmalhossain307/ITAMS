@@ -1,0 +1,16 @@
+[15-Sep-2021 08:41:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/jaysonbd/itams.jaysonbd.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/jaysonbd/itams.jaysonbd.com/config/services.php on line 18
+[15-Sep-2021 08:43:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/jaysonbd/itams.jaysonbd.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/jaysonbd/itams.jaysonbd.com/config/mail.php on line 16
+[15-Sep-2021 09:07:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/jaysonbd/itams.jaysonbd.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/jaysonbd/itams.jaysonbd.com/config/filesystems.php on line 16
+[15-Sep-2021 09:12:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/jaysonbd/itams.jaysonbd.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/jaysonbd/itams.jaysonbd.com/config/app.php on line 16
